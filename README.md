@@ -2,7 +2,7 @@
 
 | 1 | 4 | 4 | 5 | 6 | 4 | 5 | 5 | 10 | 0 | 1 | 7 | 3 | 6 | 4 | 10 | 2 | 8 | 6 |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-| 5 | 5 | 14 | 14 | 29 | 29 | 49 | 49 | 60 | 60 | 61 | 61 | 77 | 77 | 97 | 97 | 117 | 117 | 133 | 133 |
+| 5 | 5 | 14 | 14 | 29 | 29 | 49 | 49 | 60 |  61 | 61 | 77 | 77 | 97 | 97 | 117 | 133 | 133 | 133 |
 
 The game consists of 10 frames as shown above. In each frame the player has wto opportunities to knock down 10 pins. The score for the frame is the total number of pins knocked down, plus bonuses for strikes and spares.
 
